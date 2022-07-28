@@ -1,0 +1,30 @@
+.logo {
+    font-weight: 600;
+    font-size: 40px;
+    color: #4A4A4A;
+}
+
+.edtech-nav {
+    font-weight: 400;
+    font-size: 18px;
+    color: #777777;
+}
+
+/* .nav-center a {
+    justify-content: center;
+} */
+.nav-button-text {
+    font-weight: 600;
+    font-size: 20px;
+    background-color:
+        #FFFFFF;
+    color: #289BDE;
+    border: 1px solid #289BDE;
+    border-radius: 5px;
+}
+
+.nav-button-text:hover {
+    color: #289BDE;
+    border: 2px solid #289BDE;
+
+}
